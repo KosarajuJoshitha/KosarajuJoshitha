@@ -2,22 +2,22 @@
 
 Learning, building, and growing with every line of code.  
 
-🌱 I’m currently learning Machine Learning, Deep Learning, and TensorFlow 
+🌱 I’m currently learning **Machine Learning, Deep Learning, and TensorFlow**  
 
-💡 I love working with AI, Computer Vision, and Data-driven projects  
+💡 I love working with **AI, Computer Vision, and Data-driven projects**  
 
 📫 Reach me at: **kosarajujoshitha@gmail.com**
 
 ---
 
-### Connect with me:
+### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshitha-kosaraju/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KosarajuJoshitha)  
 
 ---
 
-### Languages & Tools:
-<p>
+### 🧰 Languages & Tools:
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -33,11 +33,11 @@ Learning, building, and growing with every line of code.
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats:
 ![Joshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=KosarajuJoshitha&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KosarajuJoshitha&layout=compact&theme=tokyonight)  
 
 ---
 
-### Profile Views
+### 👀 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=KosarajuJoshitha&style=flat-square)
