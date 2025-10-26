@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi 👋, I'm Joshitha Kosaraju  
+A passionate coder from India, turning ideas into intelligent solutions.
+Learning, building, and growing with every line of code.
+🌱 I’m currently learning Machine Learning, Deep Learning, and TensorFlow  
+💡 I love working with AI, Computer Vision, and Data-driven projects  
 
-<!--
-**KosarajuJoshitha/KosarajuJoshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📫 How to reach me: **kosarajujoshitha@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me:
+[LinkedIn](https://www.linkedin.com/in/joshitha-kosaraju/) • [GitHub](https://github.com/KosarajuJoshitha)
+
+---
+
+### Languages and Tools:
+python java html5 css3 tensorflow scikitlearn opencv mysql git github vscode jupyter  
+
+---
+
+![Joshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshitha5g4&show_icons=true&theme=tokyonight)
