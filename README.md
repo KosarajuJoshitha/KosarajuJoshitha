@@ -18,5 +18,5 @@ Learning, building, and growing with every line of code.
 python java html5 css3 tensorflow scikitlearn opencv mysql git github vscode jupyter  
 
 ---
+![Joshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=KosarajuJoshitha&show_icons=true&theme=tokyonight)
 
-![Joshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshitha5g4&show_icons=true&theme=tokyonight)
