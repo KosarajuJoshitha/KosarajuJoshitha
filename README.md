@@ -10,13 +10,6 @@ Learning, building, and growing with every line of code.
 
 ---
 
-### 🕒 Current Time in Hyderabad
-<p align="left">
-  <img src="https://readme-time.vercel.app/api/time?timezone=Asia/Kolkata&label=Current%20Time%20in%20Hyderabad" alt="Current Time in Hyderabad"/>
-</p>
-
----
-
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshitha-kosaraju/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KosarajuJoshitha)  
