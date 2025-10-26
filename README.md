@@ -41,3 +41,9 @@ Learning, building, and growing with every line of code.
 
 ### 👀 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=KosarajuJoshitha&style=flat-square)
+
+---
+
+### 🔥 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KosarajuJoshitha&theme=tokyonight)
+
