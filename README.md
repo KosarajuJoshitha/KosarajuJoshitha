@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshitha Kosaraju</h1>
 
- ![Profile Views](https://komarev.com/ghpvc/?username=KosarajuJoshitha&style=flat-square)
+ 👀 :![Profile Views](https://komarev.com/ghpvc/?username=KosarajuJoshitha&style=flat-square)
 
 Learning, building, and growing with every line of code.  
 
