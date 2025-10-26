@@ -2,7 +2,7 @@
 
 Learning, building, and growing with every line of code.  
 
-🌱 I’m currently learning **Machine Learning, Deep Learning, and TensorFlow**  
+🌱 I’m currently learning **Machine Learning, Deep Learning, and SQL**  
 
 💡 I love working with **AI, Computer Vision, and Data-driven projects**  
 
