@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joshitha Kosaraju</h1>
 
+### 👀 Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KosarajuJoshitha&style=flat-square" alt="Profile Views"/>
+</p>
+
 Learning, building, and growing with every line of code.  
 
 🌱 I’m currently learning **Machine Learning, Deep Learning, and SQL**  
@@ -39,11 +44,5 @@ Learning, building, and growing with every line of code.
 
 ---
 
-### 👀 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=KosarajuJoshitha&style=flat-square)
-
----
-
 ### 🔥 GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KosarajuJoshitha&theme=tokyonight)
-
