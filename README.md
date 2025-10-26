@@ -1,7 +1,9 @@
 Hi 👋, I'm Joshitha Kosaraju  
-A passionate coder from India, turning ideas into intelligent solutions.  
+
 Learning, building, and growing with every line of code.  
-🌱 I’m currently learning Machine Learning, Deep Learning, and TensorFlow  
+
+🌱 I’m currently learning Machine Learning, Deep Learning, and TensorFlow 
+
 💡 I love working with AI, Computer Vision, and Data-driven projects  
 
 📫 How to reach me: **kosarajujoshitha@gmail.com**
@@ -9,7 +11,8 @@ Learning, building, and growing with every line of code.
 ---
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/joshitha-kosaraju/) • [GitHub](https://github.com/KosarajuJoshitha)
+•[LinkedIn](https://www.linkedin.com/in/joshitha-kosaraju/) 
+• [GitHub](https://github.com/KosarajuJoshitha)
 
 ---
 
@@ -20,7 +23,6 @@ Learning, building, and growing with every line of code.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
